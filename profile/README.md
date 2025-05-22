@@ -45,9 +45,9 @@ Reach out. We're building for the long haul and welcome collaborators.
 ---
 
 ### ⛰️ Based in Montana  
-Design, development, and documentation by [@travisp](https://github.com/travisp).  
+Design, development, and documentation by [@travisp](https://github.com/travispeterson21).  
 Always down to build something useful with people doing the work.
 
 ---
 
-<sub>Let’s make better tools together.</sub>
+<sub>Built for people who care. Reviewed by Ripley, approved with tail wags.</sub>
