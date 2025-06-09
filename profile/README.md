@@ -1,53 +1,65 @@
 # Clothesline Studio
 
-Building modern, accessible tools for public sector teams, educators, and consultants who care about the their work's outcomes.
+Interface systems for civic tech, public-sector teams, and education professionals.
 
-We create software that respects your time, fits your workflows, and helps you stay aligned with what actually matters.
+We’re building two core platforms: a flexible Svelte UI kit and a structured block engine for content workflows.
 
----
-
-### ✨ What We're Working On
-
-| Project | Description |
-|---------|-------------|
-| [`clothesline-ui`](https://github.com/ClotheslineStudio/clothesline-ui) | A modular Svelte component system with full theme support and accessibility built in. Shared across all our studio tools. |
-| [`gravityplanner`](https://github.com/ClotheslineStudio/gravityplanner) _(coming soon)_ | A planning and documentation platform for State Education Agencies, Technical Assistance centers, and cross-agency teams. Think GitBook + Trello, but built for real-world education work. |
-| [`gravitycrm`](https://github.com/ClotheslineStudio/gravitycrm) _(coming soon)_ | A clean, solo-friendly CRM for creators, consultants, and state agencies who manage people and context, not pipelines. |
+[![CI](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/ci.yml)
+[![Release](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/release.yml)
+[![Showcase](https://img.shields.io/badge/Live-Showcase-blue)](https://clothesline-ui.vercel.app)
+[![Docs](https://img.shields.io/badge/Docs-Available-green)](https://clothesline-ui.vercel.app/docs)
+[![Figma](https://img.shields.io/badge/Figma-UI%20System-red)](https://figma.com/file/YOUR_LINK_HERE)
 
 ---
 
-### 🧭 Our Focus
+## UI Kit — [`@clotheslinestudio/ui`](https://github.com/ClotheslineStudio/clothesline-ui)
 
-- Public sector and education  
-  Tools that work for SEAs, school districts, TA centers, and compliance-heavy teams  
-  Purpose-built for people dealing with complex proccesses and systems
+A modular Svelte component library focused on accessibility, theming, and reliability.
 
-- Accessibility-first  
-  WCAG and Section 508 baked into the design  
-  Keyboard-friendly, screen reader tested, color-safe themes
+- **Atomic Design** — Composable interface building blocks
+- **Tailwind Integration** — Semantic tokens, responsive variants, contrast-aware themes
+- **Accessibility Built-In** — ARIA roles, keyboard nav, adaptive color modes
+- **Test Coverage** — Prettier, ESLint, Vitest, Playwright, a11y validation
+- **Monorepo Structure** — Clean separation between libraries and apps
 
-- Documentation and knowledge  
-  Structured systems for capturing plans, decisions, and toolkits  
-  Designed to survive turnover, transitions, and real deadlines
-
----
-
-### 🤝 We're Just Getting Started
-
-If you work in education, accessibility, or public service, we’d love to connect.
-
-- Got a workflow that needs better tools?  
-- Want to collaborate on a use case or build something reusable?  
-- Interested in contributing components, ideas, or feedback?
-
-Reach out. We're building for the long haul and welcome collaborators.
+→ [View Showcase](https://clothesline-ui-showcase.vercel.app)  
+→ [View Docs (Coming Soon)](https://github.com/ClotheslineStudio/clothesline-ui/wiki)  
+→ [View Figma Tokens](https://www.figma.com/file/your-file-here)
 
 ---
 
-### ⛰️ Based in Montana  
-Design, development, and documentation by [@travisp](https://github.com/travispeterson21).  
-Always down to build something useful with people doing the work.
+## Block Engine
+
+A markdown-style content framework for clarity, structure, and compliance-ready workflows.
+
+- **Typed Blocks** — Tasks, metrics, embeds, tags, and more
+- **Process-Oriented** — Traceable workstreams and team alignment
+- **Standards-Aligned** — Built with WCAG 2.2, Section 508, and FedRAMP guidance in mind  
+  _(Self-tested with automated tools; not formally certified)_
+
+Ideal for documentation-heavy teams working in complex, regulated domains.
 
 ---
 
-<sub>Built for people who care. Reviewed by Ripley, approved with tail wags.</sub>
+## Focus Areas
+
+- Public sector, education, and cross-agency collaboration
+- Deep accessibility and compliance baked in
+- Modular, scalable, and version-controlled from the start
+
+---
+
+## Roadmap
+
+- 🚀 Publish stable `@clotheslinestudio/ui` with full token system
+- 🧪 Launch component showcase and integrated documentation
+- 🔧 Expand block engine features for structured content workflows
+
+---
+
+## Maintainer
+
+Clothesline Studio is led by [@travisp](https://github.com/travispeterson21), a designer and builder with experience in accessibility, civic tech, and large-scale education projects.
+
+Reviewed by Ripley. Approved with tail wags.
+
