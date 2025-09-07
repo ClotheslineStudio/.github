@@ -1,63 +1,52 @@
 # Clothesline Studio
 
-Interface systems for civic tech, public-sector teams, and education professionals.
+Practical tools for civic tech, education, and public-sector teams.  
+We focus on accessibility, structure, and maintainability from the start.
 
-We’re building two core platforms: a flexible Svelte UI kit and a structured block engine for content workflows.
-
-[![Showcase](https://img.shields.io/badge/Live-Showcase-blue)](https://clothesline-ui.vercel.app)
-[![Docs](https://img.shields.io/badge/Docs-Available-green)](https://clothesline-ui.vercel.app/docs)
-[![Figma](https://img.shields.io/badge/Figma-UI%20System-red)](https://figma.com/file/YOUR_LINK_HERE)
-
----
-
-## UI Kit — [`@clotheslinestudio/ui`](https://github.com/ClotheslineStudio/clothesline-ui)
-
-A modular Svelte component library focused on accessibility, theming, and reliability.
-
-- **Atomic Design** — Composable interface building blocks
-- **Tailwind Integration** — Semantic tokens, responsive variants, contrast-aware themes
-- **Accessibility Built-In** — ARIA roles, keyboard nav, adaptive color modes
-- **Test Coverage** — Prettier, ESLint, Vitest, Playwright, a11y validation
-- **Monorepo Structure** — Clean separation between libraries and apps
-
-→ [View Showcase](https://clothesline-ui-showcase.vercel.app)  
-→ [View Docs (Coming Soon)](https://github.com/ClotheslineStudio/clothesline-ui/wiki)  
-→ [View Figma Tokens](https://www.figma.com/file/your-file-here)
+[![Showcase](https://img.shields.io/badge/Showcase-Live-blue)](https://clothesline-ui.vercel.app)  
+[![Docs](https://img.shields.io/badge/Docs-In_Progress-green)](https://clothesline-ui.vercel.app/docs)  
+[![Figma](https://img.shields.io/badge/Figma-Design_System-red)](https://figma.com/file/YOUR_LINK_HERE)
 
 ---
 
-## Block Engine
+## Clothesline UI — [`@clotheslinestudio/ui`](https://github.com/ClotheslineStudio/clothesline-ui)
 
-A markdown-style content framework for clarity, structure, and compliance-ready workflows.
+A modular Svelte component library built with accessibility and theming in mind.
 
-- **Typed Blocks** — Tasks, metrics, embeds, tags, and more
-- **Process-Oriented** — Traceable workstreams and team alignment
-- **Standards-Aligned** — Built with WCAG 2.2, Section 508, and FedRAMP guidance in mind  
-  _(Self-tested with automated tools; not formally certified)_
+- **Design tokens** for colors, spacing, and typography  
+- **Light/dark and high-contrast modes** included  
+- **Accessible defaults** with ARIA roles and keyboard support  
+- **Tested with Vitest, Playwright, and axe-core**  
+- **Monorepo setup** with separate apps and packages  
 
-Ideal for documentation-heavy teams working in complex, regulated domains.
-
----
-
-## Focus Areas
-
-- Public sector, education, and cross-agency collaboration
-- Deep accessibility and compliance baked in
-- Modular, scalable, and version-controlled from the start
+→ [Component Showcase](https://clothesline-ui-showcase.vercel.app)  
+→ [Docs (in progress)](https://github.com/ClotheslineStudio/clothesline-ui/wiki)
 
 ---
 
-## Roadmap
+## GravityPlanner
 
-- 🚀 Publish stable `@clotheslinestudio/ui` with full token system
-- 🧪 Launch component showcase and integrated documentation
-- 🔧 Expand block engine features for structured content workflows
+A lightweight planning and documentation platform that uses the Clothesline UI system.  
+
+- **Block engine** for tasks, notes, wikis, and toolkits  
+- **Alignment tools** for goals and progress tracking  
+- **Built with accessibility and compliance in mind**  
+
+---
+
+## What We’re Working On
+
+- Stable release of `@clotheslinestudio/ui`  
+- Public documentation site and showcase  
+- Expanding GravityPlanner’s block engine  
+- Simple theme generator app  
 
 ---
 
 ## Maintainer
 
-Clothesline Studio is led by [@travisp](https://github.com/travispeterson21), a designer and builder with experience in accessibility, civic tech, and large-scale education projects.
+Clothesline Studio is maintained by [@travisp](https://github.com/travispeterson21).  
 
-Reviewed by Ripley. Approved with tail wags.
+Reviewed by Ripley. 🐾  
+
 
