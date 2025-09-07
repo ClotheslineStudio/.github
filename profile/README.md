@@ -4,8 +4,6 @@ Interface systems for civic tech, public-sector teams, and education professiona
 
 We’re building two core platforms: a flexible Svelte UI kit and a structured block engine for content workflows.
 
-[![CI](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/ci.yml)
-[![Release](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/ClotheslineStudio/clothesline-ui/actions/workflows/release.yml)
 [![Showcase](https://img.shields.io/badge/Live-Showcase-blue)](https://clothesline-ui.vercel.app)
 [![Docs](https://img.shields.io/badge/Docs-Available-green)](https://clothesline-ui.vercel.app/docs)
 [![Figma](https://img.shields.io/badge/Figma-UI%20System-red)](https://figma.com/file/YOUR_LINK_HERE)
