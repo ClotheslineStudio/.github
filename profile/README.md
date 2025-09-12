@@ -3,7 +3,7 @@
 Practical tools for civic tech, education, and public-sector teams.  
 We focus on accessibility, structure, and maintainability from the start.
 
-[![Showcase](https://img.shields.io/badge/Showcase-Live-blue)](https://clothesline-ui.vercel.app)  
+[![Showcase](https://img.shields.io/badge/Showcase-In_Progress-green)](https://clothesline-ui.vercel.app)  
 [![Docs](https://img.shields.io/badge/Docs-In_Progress-green)](https://clothesline-ui.vercel.app/docs)  
 [![Figma](https://img.shields.io/badge/Figma-Design_System-red)](https://figma.com/file/YOUR_LINK_HERE)
 
